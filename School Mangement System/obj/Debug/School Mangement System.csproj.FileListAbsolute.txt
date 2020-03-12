@@ -1,0 +1,10 @@
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School_Mangement_System.Form1.resources
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School_Mangement_System.Properties.Resources.resources
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School Mangement System.csproj.GenerateResource.cache
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School Mangement System.csproj.CoreCompileInputs.cache
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\bin\Debug\School Mangement System.exe.config
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\bin\Debug\School Mangement System.exe
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\bin\Debug\School Mangement System.pdb
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School Mangement System.exe
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School Mangement System.pdb
+C:\GoutamDasC#\Final Exam\School Mangement System\School Mangement System\obj\Debug\School Mangement System.csprojAssemblyReference.cache
